@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur Labenskyy</h1>
-<h3 align="center">A junior Fullstack developer from Israel.</h3>
+<h3 align="center">Junior Fullstack developer from Israel.</h3>
 
 -   🌱 I’m currently learning **Fullstack developing technologies**
 
